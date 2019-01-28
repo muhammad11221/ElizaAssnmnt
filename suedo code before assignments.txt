@@ -1,0 +1,66 @@
+pseuocode:
+
+1. Your 6 year old client needs an application that will receive 
+an integer from the user banging on the keyboard, add 5 to it, double it, 
+subtract 7 from it, and display  the result to the screen.
+
+
+Input:
+input a number by banging on the keyboard  
+          
+		 process:
+                      while user has entered the number 
+                      add entered number with 5
+                      save in sum
+                      sum multiply by 2 
+                      save in answer
+                      answer subtract with 7
+                      save in total
+
+
+						output:
+						print the total
+
+
+2. His little sister now wants a program to read three numbers, add them together
+ and print their total.
+
+Input:
+Allow user to enter 3 numbers one after another.
+
+
+Process:
+input a number 
+save it to num1
+input another number 
+save it to num2
+input another number 
+save it to num3
+
+sum = num1 +num2 +num3
+
+output:
+Print the sum.
+
+
+3. A program is needed to prompt the user operator for ten exam scores, 
+calculate the average score and display the result to the screen. 
+The average score is calculated as the sum of the scores divided by the number of scores.
+
+Input:
+10 exam scores
+
+Process:
+enter 10 numbers
+add all those 10 numbers
+save it to sum
+then divide sum with 10.
+save it to total
+
+Output: 
+display the total.
+
+
+4. 
+
+
